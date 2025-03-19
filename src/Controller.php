@@ -2,7 +2,7 @@
 
 namespace Den-Krutov\logic\Controller;
 
-use stxrsh1ne\logic\View;
+use Den-Krutov\logic\View;
 
 function startGame()
 {
