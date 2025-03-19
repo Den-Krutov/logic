@@ -29,7 +29,7 @@
 - wp-cli/php-cli-tools — библиотека для удобного ввода/вывода в консоли.
 
 ## Ссылки
-- Packagist: [Logic Game](https://packagist.org/packages/Den_Krutov/logic)
+- Packagist: [Logic Game](https://packagist.org/packages/den_krutov/logic)
 - [Репозиторий на GitHub](https://github.com/Den-Krutov/logic)
 - Автор: Den-Krutov
 - Лицензия: MIT
