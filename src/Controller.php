@@ -1,8 +1,8 @@
 <?php
 
-namespace Den-Krutov\logic\Controller;
+namespace DenKrutov\logic\Controller;
 
-use Den-Krutov\logic\View;
+use DenKrutov\logic\View;
 
 function startGame()
 {

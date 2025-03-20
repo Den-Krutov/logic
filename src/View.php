@@ -1,6 +1,6 @@
 <?php
 
-namespace Den-Krutov\logic\View;
+namespace DenKrutov\logic\View;
 
 function displayStartScreen()
 {

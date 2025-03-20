@@ -3,6 +3,6 @@
 
 require_once __DIR__ . '/../vendor/autoload.php';
 
-use Den-Krutov\logic\Controller; 
+use DenKrutov\logic\Controller; 
 
 Controller\startGame();

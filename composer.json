@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Den-Krutov\\logic\\": "src/"
+            "DenKrutov\\logic\\": "src/"
         },
         "files": [
             "src/Controller.php",
